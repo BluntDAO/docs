@@ -5,7 +5,7 @@ description: This is how to get the BluntDAO App started
 # 👨💻 Getting the Repo Started
 
 {% hint style="info" %}
-**Good to know:** A quick start guide can be good to help folks get up and running with your API in a few steps. Some people prefer diving in with the basics rather than meticulously reading every page of documentation!
+**BluntDAO**
 {% endhint %}
 
 ## Set Up Your Environment Variables

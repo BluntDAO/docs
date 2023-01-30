@@ -4,4 +4,7 @@ description: Figma Design Files
 
 # 💅 Designs
 
-Miro Flow
+
+
+For a sense of the User Flow checkout
+
