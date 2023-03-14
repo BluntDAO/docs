@@ -4,7 +4,9 @@ description: Welcome to BluntDAO Documentation
 
 # 👋 Welcome!
 
-
+{% content-ref url="voting-in-the-dao.md" %}
+[voting-in-the-dao.md](voting-in-the-dao.md)
+{% endcontent-ref %}
 
 ## About the Repo
 
