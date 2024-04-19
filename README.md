@@ -26,10 +26,8 @@ What can you smoke?
 
 You can vote on the DAO as a siegnal, this is different than token holders who vote on what happens with the sesh, however there are non-purchases blunts.wtf OUNCE NFTs that are given to OG Validators to give governance from the real ogs.&#x20;
 
-
-
-{% content-ref url="voting-in-the-dao.md" %}
-[voting-in-the-dao.md](voting-in-the-dao.md)
+{% content-ref url="proof-of-sesh-explained/" %}
+[proof-of-sesh-explained](proof-of-sesh-explained/)
 {% endcontent-ref %}
 
 ## The Funds
@@ -44,13 +42,20 @@ The unlimited sesh fund.
 
 
 
+{% content-ref url="the-unlimited-sesh-fund.md" %}
+[the-unlimited-sesh-fund.md](the-unlimited-sesh-fund.md)
+{% endcontent-ref %}
+
 ## Creatives Commons Zero&#x20;
 
 We are under the [Creatives Commons 0](https://creativecommons.org/public-domain/cc0/) aka "No Rights Reserved" for our brand including our blunts.wtf art. This means others may freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law.
 
-
+{% content-ref url="how-to-contribute.md" %}
+[how-to-contribute.md](how-to-contribute.md)
+{% endcontent-ref %}
 
 ## Resources
 
 * Github [https://github.com/BluntDAO](https://github.com/BluntDAO)
 * Twitter https://x.com/BluntDAO&#x20;
+* All Links [https://bento.me/blunt ](https://bento.me/blunt)
