@@ -1,8 +1,10 @@
 ---
-description: BluntDAO got a DAO on every chain we on my G
+description: >-
+  BluntDAO got a DAO on every chain we on my G, this is for voting in the OG
+  DAOs, not blunts.wtf
 ---
 
-# 🗳 Voting in the DAO
+# 🗳️ Voting in the DAO -
 
 {% hint style="info" %}
 **Right now BluntDAO has 3 DAOs; Solana, NEAR, EVMs**
@@ -60,7 +62,7 @@ BIP #000X (XX): Title of Proposal. where #000X is the number of the proposal. Pl
 
 * To denote a member contribution that is significant within the DAO
 
-**Quarterly Report (QR) **_****_&#x20;
+**Quarterly Report (QR)**&#x20;
 
 * This is a report released on a quarterly basis.
 
