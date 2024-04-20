@@ -23,7 +23,7 @@ coverY: 0
 
 ## How It Works
 
-Everyday a new OUNCE is auctioned off on BASE using ETH. All that money goes to thre treasury to fund IRL seshes and to expand the BluntDAO open source brand. In order to submit a proposal on-chain you must have 0.1% of supply (so 1 NFT until there is 1000+ NFTs \~ 2.5 years). If you do not have this rally a proposal ([instructions](putting-in-a-proposal.md) here)
+Everyday a new OUNCE is auctioned off on BASE using ETH. All that money goes to thre treasury to fund IRL (in real life) seshes and to expand the BluntDAO open source brand. In order to submit a proposal on-chain you must have 0.1% of supply (so 1 NFT until there is 1000+ NFTs \~ 2.5 years). If you do not have this rally a proposal ([instructions](putting-in-a-proposal.md) here)
 
 
 
@@ -38,11 +38,6 @@ For the full settings go to [https://bluntdao.org/fund-settings](https://bluntda
 * If through nouns.build then 2.5% goes to Zora's Builder DAO. Reccomend use blunts.wtf app
 * `Duration:` How long an auction runs for: 1 day
 * `Reserve Price:` Minimum bid amount required to start an auction. **0.021 ETH around ($60+ depending on price of Eth)**
-
-**Advanced**[**#**](https://docs.zora.co/docs/guides/builder-deployment#advanced)
-
-We have chosen safe default values so don't feel pressured to change these unless you feel like a different setting is truly preferential.
-
 * `Proposal Threshold:` Min percent of total votes (NFTs) balance needed to put a proposal to a vote.: **0.1%**
 * `Quorum Threshold:` Min percent of total **For** votes (NFTs) required for a proposal to pass. **10% required**. Example, if a proposal does not get 10% of NFT holders by the end of proposal, proposal will fail.
 
