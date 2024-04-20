@@ -4,6 +4,8 @@ description: Welcome to BluntDAO Documentation
 
 # 👋 Welcome!
 
+> Ask yourself? What does a Blunt want you to do to it? --- Smoke it. And in this essence this is what BluntDAO is living up to . **The mission to make sure blunts get smoked.** And we use blockchain for stuff.
+
 ## About BluntDAO
 
 BluntDAO is the the biggest IRL onboarding movement to Web3 via Proof of Sesh through local IRL OGs. We are now introducing the [unlimited sesh fund](https://blunts.wtf), a regular re-up mechanism where anyone can request ETH to host a sesh from contributors. Onboarding the next million, 1 blunt/sesh at a time.
@@ -11,6 +13,19 @@ BluntDAO is the the biggest IRL onboarding movement to Web3 via Proof of Sesh th
 A DAO is a decentralized autonomous organization, essentially a way to coordinate via wallets (aka accounts) using blockchain.&#x20;
 
 We have our core members (OG Validators), and our funders who buy in via NFT auctions at [blunts.wtf](https://blunts.wtf) to control the treasury to fund future seshes.&#x20;
+
+
+
+### Core Values
+
+* Fun - we are here to have a good time
+* Smoke - stay high
+* Don't Run Out Of Money - need to re-up
+* Culture - end to end stack for setting trend
+* Proliferate the Sesh - unlimited sesh
+* IRL - puff puff pass & touch grass
+* Innovate - u can't ux if our OGs can't use it smacked. also high ideas
+* Legalize - jail sux. lets make sure we stay out of jail. so much progress.
 
 ## How to Get In
 
@@ -42,8 +57,8 @@ The unlimited sesh fund.
 
 
 
-{% content-ref url="the-unlimited-sesh-fund.md" %}
-[the-unlimited-sesh-fund.md](the-unlimited-sesh-fund.md)
+{% content-ref url="the-unlimited-sesh-fund/" %}
+[the-unlimited-sesh-fund](the-unlimited-sesh-fund/)
 {% endcontent-ref %}
 
 ## Creatives Commons Zero&#x20;

@@ -42,7 +42,7 @@ If you are not crashing another event and doing a stand alone event
 
 * Good music
 
-Request via [unlimited sesh fund](the-unlimited-sesh-fund.md).&#x20;
+Request via [unlimited sesh fund](the-unlimited-sesh-fund/).&#x20;
 
 {% hint style="warning" %}
 Be cognizant of the laws in your area regarding smoking in public. This is not legal advice, and BluntDAO is super compliant

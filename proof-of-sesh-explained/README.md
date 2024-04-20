@@ -23,7 +23,7 @@ Proof of Sesh consensus Mechanism for validating new "nodes" _aka members_ to th
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 2.10.32 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/proofofseshv3flow.png" alt=""><figcaption></figcaption></figure>
 
 ## How to Vote in DAO
 
