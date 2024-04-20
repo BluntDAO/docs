@@ -4,6 +4,10 @@ description: There a different ways you can contribute
 
 # 🙏 How to Contribute
 
+Get Involved in Our Charmverse:&#x20;
+
+{% embed url="https://forum.bluntdao.org" %}
+
 Are you the plug?
 
 * Hop on telegram to sponsor the events
