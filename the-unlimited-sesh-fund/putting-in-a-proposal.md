@@ -2,7 +2,7 @@
 description: For the Sesh fund this is how to get a proposal
 ---
 
-# Putting in A Proposal
+# 🗳️ Putting in A Proposal
 
 Either you put a proposal or get an "Ouncer" - someone who owns the blunts.wtf NFT to put on your behalf
 

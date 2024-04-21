@@ -1,4 +1,4 @@
-# Voting on Proposal
+# ⚖️ Voting on Proposal
 
 You can vote on a proposal with your OUNCE NFT.
 
