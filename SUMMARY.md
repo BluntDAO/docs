@@ -11,3 +11,4 @@
 * [🎉 How to Start A Sesh](how-to-start-a-sesh.md)
 * [🙏 How to Contribute](how-to-contribute.md)
 * [📚 Addictionary](addictionary.md)
+* [🌠 Ecosystem](ecosystem.md)

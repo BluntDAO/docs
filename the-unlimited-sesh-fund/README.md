@@ -29,9 +29,9 @@ Everyday a new OUNCE is auctioned off on BASE using ETH. All that money goes to 
 
 1/4.20 of the OUNCES go towards the OG Validator shortlist based on retroactive contributions. People from the original BluntDAO who have done significant work.
 
-Generally this is guidelines for treasury management
-
-
+{% content-ref url="bidding-on-the-collection.md" %}
+[bidding-on-the-collection.md](bidding-on-the-collection.md)
+{% endcontent-ref %}
 
 For the full settings go to [https://bluntdao.org/fund-settings](https://bluntdao.org/fund-settings)&#x20;
 
@@ -53,13 +53,25 @@ Best practice to keep treasury alive
 
 <table data-header-hidden><thead><tr><th width="143"></th><th></th></tr></thead><tbody><tr><td><strong>Amount</strong></td><td><strong>Reason</strong></td></tr><tr><td>45%</td><td>Fund localize IRL seshes</td></tr><tr><td>30%</td><td>In treasury for runway</td></tr><tr><td>15%</td><td>Tech innovation</td></tr><tr><td>5%</td><td>Operation and coordination</td></tr><tr><td>5%</td><td>Art, culture, products</td></tr></tbody></table>
 
+{% content-ref url="secondary-sales.md" %}
+[secondary-sales.md](secondary-sales.md)
+{% endcontent-ref %}
+
+{% content-ref url="voting-on-proposal.md" %}
+[voting-on-proposal.md](voting-on-proposal.md)
+{% endcontent-ref %}
+
+{% content-ref url="putting-in-a-proposal.md" %}
+[putting-in-a-proposal.md](putting-in-a-proposal.md)
+{% endcontent-ref %}
+
 ## FAQs
 
 <details>
 
 <summary>What about secondary marketplaces</summary>
 
-This is more for governance however, these can be sold on secondary marketplaces?
+This is more for governance however, these can be sold on secondary marketplaces. More [info here](secondary-sales.md)
 
 </details>
 
