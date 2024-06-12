@@ -8,6 +8,7 @@
   * [⚖️ Voting on Proposal](the-unlimited-sesh-fund/voting-on-proposal.md)
   * [🗳️ Putting in A Proposal](the-unlimited-sesh-fund/putting-in-a-proposal.md)
   * [🛍️ Secondary Sales](the-unlimited-sesh-fund/secondary-sales.md)
+  * [🤖 Setting Up An Auction Bot](the-unlimited-sesh-fund/setting-up-an-auction-bot.md)
 * [🎉 How to Start A Sesh](how-to-start-a-sesh.md)
 * [🙏 How to Contribute](how-to-contribute.md)
 * [📚 Addictionary](addictionary.md)

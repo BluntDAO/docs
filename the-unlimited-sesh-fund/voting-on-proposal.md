@@ -1,3 +1,7 @@
+---
+description: How to vote on a proposal
+---
+
 # ⚖️ Voting on Proposal
 
 You can vote on a proposal with your OUNCE NFT.

@@ -4,13 +4,13 @@ description: >-
   DAOs, not blunts.wtf
 ---
 
-# 🗳️ Voting in the DAO -
+# 🗳️ Voting in the DAO
 
 {% hint style="info" %}
 **Right now BluntDAO has 3 DAOs; Solana, NEAR, EVMs**
 {% endhint %}
 
-[bluntdao.org/dao-sol ](https://bluntdao.org/dao-sol)for the Solana dao
+[bluntdao.org/dao-sol ](https://bluntdao.org/dao-sol)for the Solana DAO
 
 * To vote you need to have the OG BluntDAO Validator NFT
 * For more information check out this article
@@ -30,7 +30,7 @@ description: >-
 
 ## Formatting A Proposals
 
-Proposals are known as BluntDAO Improvement Proposals (BIP) and are formally considered under the following naming convention
+Proposals are known as BluntDAO Improvement Proposals (BIP) and are formally considered under the following naming convention.
 
 BIP #000X (XX): Title of Proposal. where #000X is the number of the proposal. Please check all the last proposals to increment accordingly. And (XX) denoted the proposal category and ": Title of Proposal" properly describes the proposal.
 

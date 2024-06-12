@@ -10,7 +10,7 @@ If you are looking for all the links go to [https://bento.me/blunt](https://bent
 
 ## Proof of Sesh
 
-Proof of Sesh has evolved over time. We have used providers like Satori (NEAR), Sharddog (NEAR), POAP (Eth), Cupcake (SOLANA), SOAP (Solana) ,but also different partners have built custom solutions
+Proof of Sesh has evolved over time. We have used providers like Satori (NEAR), Sharddog (NEAR), POAP (Eth), Cupcake (SOLANA), SOAP (Solana), but also different partners have built custom solutions
 
 * GenaDrop [DropWallet](https://t.me/dropwalletbot) - this account abstracted telegram wallet has a secreet passcode for onboarding members that is referral based and posts to Web3 social, mints a NFT for the respective smoking sesh, and triggers a DAO proposal to add the new member on NEAR Protocol
 * [GenaDrop](https://www.genadrop.io/mint/sesh) - this early sesh allows you to mint a single NFT with your Camera across NEAR, Aurora, Algorand, Polygon, Avalanche, and Arbitrum.
@@ -18,7 +18,7 @@ Proof of Sesh has evolved over time. We have used providers like Satori (NEAR), 
 ## Apps
 
 * BluntDAO Gateway [app.bluntdao.com](https://app.bluntdao.com/): contributions from GenaDrop x Build DAO team. This enables to see a feed of seshes and manage governance on near
-* Blunt DAO [Website](https://bluntdao.org): bluntdao.com / bluntdao.org this use to be the portal to irginal minting on Solana, now just used as a landing app
+* Blunt DAO [Website](https://bluntdao.org): bluntdao.com / bluntdao.org this use to be the portal to original minting on Solana, now just used as a landing app
   * This website is available across different domains (JointsDAO.com, SpliffDAO.com, HotboxDAO.com, HashishDAO.com, ProofOfSesh.com, ProofOfPuff.com, ProofOfHigh.com, SchemeDAO.com to name a few)
 
 ## Blunts.WTF Auction

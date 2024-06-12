@@ -48,8 +48,6 @@ Request via [unlimited sesh fund](the-unlimited-sesh-fund/).&#x20;
 Be cognizant of the laws in your area regarding smoking in public. This is not legal advice, and BluntDAO is super compliant
 {% endhint %}
 
-
-
-On-chain Tips
-
-* If you are onboarding people IRL, have good internet. Make sure you have a code from an OG validator for effective onboarding
+{% hint style="info" %}
+If you are onboarding people IRL, have good internet. Make sure you have a code from an OG validator for effective onboarding
+{% endhint %}

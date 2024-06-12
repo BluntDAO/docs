@@ -39,7 +39,7 @@ What can you smoke?
 
 * Any type of device at Bud. It use to be just Blunts.&#x20;
 
-You can vote on the DAO as a siegnal, this is different than token holders who vote on what happens with the sesh, however there are non-purchases blunts.wtf OUNCE NFTs that are given to OG Validators to give governance from the real ogs.&#x20;
+You can vote on the DAO as a signal, this is different than token holders who vote on what happens with the sesh, however there are non-purchases blunts.wtf OUNCE NFTs that are given to OG Validators to give governance from the real ogs.&#x20;
 
 {% content-ref url="proof-of-sesh-explained/" %}
 [proof-of-sesh-explained](proof-of-sesh-explained/)
@@ -72,5 +72,5 @@ We are under the [Creatives Commons 0](https://creativecommons.org/public-domain
 ## Resources
 
 * Github [https://github.com/BluntDAO](https://github.com/BluntDAO)
-* Twitter https://x.com/BluntDAO&#x20;
+* Twitter [https://x.com/BluntDAO](https://x.com/BluntDAO)&#x20;
 * All Links [https://bento.me/blunt ](https://bento.me/blunt)

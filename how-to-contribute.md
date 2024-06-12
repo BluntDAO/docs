@@ -4,7 +4,7 @@ description: There a different ways you can contribute
 
 # 🙏 How to Contribute
 
-Get Involved in Our Charmverse:&#x20;
+Get Involved in Our Charmverse:  Check out our [onboarding guide](https://bluntdao.org/onboarding)
 
 {% embed url="https://forum.bluntdao.org" %}
 
@@ -22,7 +22,7 @@ Fund the treasury
 
 Are you a dev?
 
-* Put in a proposal to expand proof of sesh and build tools to scale BlutnDAO
+* Put in a proposal to expand proof of sesh and build tools to scale BluntDAO
 
 Are you a creative?
 
@@ -34,7 +34,13 @@ Are you a marketer?
 
 * Help us facilitate the open source sesh brand.
 
+## Start A Chapter
 
+[Chapter Playbook](https://bluntdao.org/chapter-toolkit)
+
+## Event Playbook
+
+[Event Playbook](https://bluntdao.org/event-playbook)
 
 To contribute to the docs directly make a PR at [https://github.com/BluntDAO/docs](https://github.com/BluntDAO/docs)
 
