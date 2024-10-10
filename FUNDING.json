@@ -1,0 +1,12 @@
+{
+  "drips": {
+    "ethereum": {
+      "ownedBy": "0xd2342ab42af2b1b5d42a1c604fb5e036740d2702"
+    }
+  },
+    "potlock": {
+    "near": {
+      "ownedBy": "blunt.sputnik-dao.near"
+    }
+  }
+}
